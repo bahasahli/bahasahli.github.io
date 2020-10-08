@@ -2,47 +2,47 @@
     "lyrics": [
         {
             "line": "It's one small step for man\n",
-            "time":0
+            "time":10000000000
         },
         {
             "line": "One giant leap for mankind\n",
-            "time": 0
+            "time": 10000000000
         },
         {
             "line": "You came into my life with no warning\n",
-            "time":0 
+            "time":10000000000 
         },
         {
             "line": "Like a flash of light\n",
-            "time":0 
+            "time":10000000000 
         },
         {
             "line": "And I was doing fine but as you came in\n",
-            "time": 0
+            "time": 10000000000
         },
         {
             "line": "I watch my future rewrite\n",
-            "time": 0
+            "time": 10000000000
         },
         {
             "line": "I'm not ready, I am not prepared\n",
-            "time": 0
+            "time": 10000000000
         },
         {
             "line": "I was so steady, on my feet but now I'm up in the air\n",
-            "time":0 
+            "time":10000000000 
         },
         {
             "line": "It's just you and me\n",
-            "time": 0
+            "time": 10000000000
         },
         {
             "line": "With the world beneath our feet\n",
-            "time": 0
+            "time": 10000000000
         },
         {
             "line": "We can see for miles up here\n",
-            "time": 0
+            "time": 10000000000
         }
        
     ]
